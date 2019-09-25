@@ -1,4 +1,4 @@
 x=int(input(" enter no"))
 y=int(input(" enter 2 no."))
 sum=x+y
-print(sum)
+print("sum is:",sum)
