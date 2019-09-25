@@ -3,3 +3,4 @@ y=int(input(" enter 2 no."))
 sum=x+y
 sub=x-y
 print("sum is:",sum)
+print("sub is:",sub)
